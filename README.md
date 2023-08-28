@@ -77,13 +77,8 @@ The full documentation for the React Material Kit can be found [here](https://mu
 
 ## Free Updates and Support
 
-No matter how well documented and built something is, sometimes you just need a little help! That’s why we make ourselves available to help you anytime, just contact our [support](hi@maccarianagency.com) email. We’re also planning tons of updates! In addition to keeping theFront up to date with MUI's core and any necessary patches, we’ll be adding new features regularly over the coming months!
+No matter how well documented and built something is, sometimes you just need a little help! That’s why we make ourselves available to help you anytime, just contact our support. We’re also planning tons of updates! In addition to keeping theFront up to date with MUI's core and any necessary patches, we’ll be adding new features regularly over the coming months!
 
-- [Contact us via email](hi@maccarianagency.com)
 
 ## Contact Us
 
-- Email Us: hi@maccarianagency.com
-- [Follow us on Linkedin](https://www.linkedin.com/company/maccarian)
-- [Follow us on Instagram](https://www.instagram.com/maccarian/)
-- [Follow us on Facebook](https://facebook.com/maccarian.agency/)
